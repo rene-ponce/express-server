@@ -1,5 +1,3 @@
-const res = require("express/lib/response");
-
 class ProductsApi {
   constructor() {
     this.products = [];
